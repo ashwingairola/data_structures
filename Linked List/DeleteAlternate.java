@@ -16,8 +16,6 @@ class Node
 class MyLinkedList
 {
   private Node start;
-  // Instance variable to count if the last occurence has been found.
-  private int lastOccurenceCount;
 
   public Node getStart()
   {
